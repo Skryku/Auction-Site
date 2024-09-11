@@ -1,0 +1,387 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\skory\\source\\repos\\Auction-Site\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|c:\\users\\skory\\source\\repos\\auction-site\\auction-site\\data\\services\\listingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|solutionrelative:auction-site\\data\\services\\listingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|c:\\users\\skory\\source\\repos\\auction-site\\auction-site\\data\\services\\bidsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|solutionrelative:auction-site\\data\\services\\bidsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|c:\\users\\skory\\source\\repos\\auction-site\\auction-site\\views\\listings\\mybids.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|solutionrelative:auction-site\\views\\listings\\mybids.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|c:\\users\\skory\\source\\repos\\auction-site\\auction-site\\views\\listings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|solutionrelative:auction-site\\views\\listings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|c:\\users\\skory\\source\\repos\\auction-site\\auction-site\\views\\listings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|solutionrelative:auction-site\\views\\listings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|c:\\users\\skory\\source\\repos\\auction-site\\auction-site\\models\\listing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|solutionrelative:auction-site\\models\\listing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|c:\\users\\skory\\source\\repos\\auction-site\\auction-site\\controllers\\listingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|solutionrelative:auction-site\\controllers\\listingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|c:\\users\\skory\\source\\repos\\auction-site\\auction-site\\data\\services\\ibidsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|solutionrelative:auction-site\\data\\services\\ibidsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|c:\\users\\skory\\source\\repos\\auction-site\\auction-site\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|solutionrelative:auction-site\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|c:\\users\\skory\\source\\repos\\auction-site\\auction-site\\data\\services\\commentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|solutionrelative:auction-site\\data\\services\\commentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|c:\\users\\skory\\source\\repos\\auction-site\\auction-site\\data\\services\\icommentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|solutionrelative:auction-site\\data\\services\\icommentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|c:\\users\\skory\\source\\repos\\auction-site\\auction-site\\data\\services\\ilistingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|solutionrelative:auction-site\\data\\services\\ilistingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|c:\\users\\skory\\source\\repos\\auction-site\\auction-site\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|solutionrelative:auction-site\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|c:\\users\\skory\\source\\repos\\auction-site\\auction-site\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|solutionrelative:auction-site\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|c:\\users\\skory\\source\\repos\\auction-site\\auction-site\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|solutionrelative:auction-site\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|c:\\users\\skory\\source\\repos\\auction-site\\auction-site\\models\\listingvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|solutionrelative:auction-site\\models\\listingvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|c:\\users\\skory\\source\\repos\\auction-site\\auction-site\\views\\listings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|solutionrelative:auction-site\\views\\listings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|c:\\users\\skory\\source\\repos\\auction-site\\auction-site\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|solutionrelative:auction-site\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|c:\\users\\skory\\source\\repos\\auction-site\\auction-site\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|solutionrelative:auction-site\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|c:\\users\\skory\\source\\repos\\auction-site\\auction-site\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|solutionrelative:auction-site\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|c:\\users\\skory\\source\\repos\\auction-site\\auction-site\\models\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|solutionrelative:auction-site\\models\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|c:\\users\\skory\\source\\repos\\auction-site\\auction-site\\data\\migrations\\20240911062948_initial mgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB90991-E09E-4DEE-913C-914CD9D2C678}|Auction-Site\\Auction-Site.csproj|solutionrelative:auction-site\\data\\migrations\\20240911062948_initial mgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyBids.cshtml",
+              "DocumentMoniker": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Views\\Listings\\MyBids.cshtml",
+              "RelativeDocumentMoniker": "Auction-Site\\Views\\Listings\\MyBids.cshtml",
+              "ToolTip": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Views\\Listings\\MyBids.cshtml",
+              "RelativeToolTip": "Auction-Site\\Views\\Listings\\MyBids.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T16:16:51.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Views\\Listings\\Details.cshtml",
+              "RelativeDocumentMoniker": "Auction-Site\\Views\\Listings\\Details.cshtml",
+              "ToolTip": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Views\\Listings\\Details.cshtml",
+              "RelativeToolTip": "Auction-Site\\Views\\Listings\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T08:00:52.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ListingVM.cs",
+              "DocumentMoniker": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Models\\ListingVM.cs",
+              "RelativeDocumentMoniker": "Auction-Site\\Models\\ListingVM.cs",
+              "ToolTip": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Models\\ListingVM.cs",
+              "RelativeToolTip": "Auction-Site\\Models\\ListingVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T07:07:49.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Views\\Listings\\Index.cshtml",
+              "RelativeDocumentMoniker": "Auction-Site\\Views\\Listings\\Index.cshtml",
+              "ToolTip": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Views\\Listings\\Index.cshtml",
+              "RelativeToolTip": "Auction-Site\\Views\\Listings\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T06:46:17.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListingsService.cs",
+              "DocumentMoniker": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Data\\Services\\ListingsService.cs",
+              "RelativeDocumentMoniker": "Auction-Site\\Data\\Services\\ListingsService.cs",
+              "ToolTip": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Data\\Services\\ListingsService.cs",
+              "RelativeToolTip": "Auction-Site\\Data\\Services\\ListingsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:39:17.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListingsController.cs",
+              "DocumentMoniker": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Controllers\\ListingsController.cs",
+              "RelativeDocumentMoniker": "Auction-Site\\Controllers\\ListingsController.cs",
+              "ToolTip": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Controllers\\ListingsController.cs",
+              "RelativeToolTip": "Auction-Site\\Controllers\\ListingsController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwD0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:32:30.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Program.cs",
+              "RelativeDocumentMoniker": "Auction-Site\\Program.cs",
+              "ToolTip": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Program.cs",
+              "RelativeToolTip": "Auction-Site\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:24:49.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Auction-Site\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Auction-Site\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-11T13:24:15.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Views\\Listings\\Create.cshtml",
+              "RelativeDocumentMoniker": "Auction-Site\\Views\\Listings\\Create.cshtml",
+              "ToolTip": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Views\\Listings\\Create.cshtml",
+              "RelativeToolTip": "Auction-Site\\Views\\Listings\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T07:09:41.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IListingsService.cs",
+              "DocumentMoniker": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Data\\Services\\IListingsService.cs",
+              "RelativeDocumentMoniker": "Auction-Site\\Data\\Services\\IListingsService.cs",
+              "ToolTip": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Data\\Services\\IListingsService.cs",
+              "RelativeToolTip": "Auction-Site\\Data\\Services\\IListingsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:33:48.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBidsService.cs",
+              "DocumentMoniker": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Data\\Services\\IBidsService.cs",
+              "RelativeDocumentMoniker": "Auction-Site\\Data\\Services\\IBidsService.cs",
+              "ToolTip": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Data\\Services\\IBidsService.cs",
+              "RelativeToolTip": "Auction-Site\\Data\\Services\\IBidsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:08:48.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BidsService.cs",
+              "DocumentMoniker": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Data\\Services\\BidsService.cs",
+              "RelativeDocumentMoniker": "Auction-Site\\Data\\Services\\BidsService.cs",
+              "ToolTip": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Data\\Services\\BidsService.cs",
+              "RelativeToolTip": "Auction-Site\\Data\\Services\\BidsService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAD4vxYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:09:41.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Listing.cs",
+              "DocumentMoniker": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Models\\Listing.cs",
+              "RelativeDocumentMoniker": "Auction-Site\\Models\\Listing.cs",
+              "ToolTip": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Models\\Listing.cs",
+              "RelativeToolTip": "Auction-Site\\Models\\Listing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T07:07:56.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICommentsService.cs",
+              "DocumentMoniker": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Data\\Services\\ICommentsService.cs",
+              "RelativeDocumentMoniker": "Auction-Site\\Data\\Services\\ICommentsService.cs",
+              "ToolTip": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Data\\Services\\ICommentsService.cs",
+              "RelativeToolTip": "Auction-Site\\Data\\Services\\ICommentsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:46:32.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommentsService.cs",
+              "DocumentMoniker": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Data\\Services\\CommentsService.cs",
+              "RelativeDocumentMoniker": "Auction-Site\\Data\\Services\\CommentsService.cs",
+              "ToolTip": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Data\\Services\\CommentsService.cs",
+              "RelativeToolTip": "Auction-Site\\Data\\Services\\CommentsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:47:29.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Auction-Site\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Auction-Site\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T13:28:21.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PaginatedList.cs",
+              "DocumentMoniker": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\PaginatedList.cs",
+              "RelativeDocumentMoniker": "Auction-Site\\PaginatedList.cs",
+              "ToolTip": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\PaginatedList.cs",
+              "RelativeToolTip": "Auction-Site\\PaginatedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:08:42.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240911062948_Initial mgr.cs",
+              "DocumentMoniker": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Data\\Migrations\\20240911062948_Initial mgr.cs",
+              "RelativeDocumentMoniker": "Auction-Site\\Data\\Migrations\\20240911062948_Initial mgr.cs",
+              "ToolTip": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Data\\Migrations\\20240911062948_Initial mgr.cs",
+              "RelativeToolTip": "Auction-Site\\Data\\Migrations\\20240911062948_Initial mgr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:29:48.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\appsettings.json",
+              "RelativeDocumentMoniker": "Auction-Site\\appsettings.json",
+              "ToolTip": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\appsettings.json",
+              "RelativeToolTip": "Auction-Site\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-11T06:20:20.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Auction-Site\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Auction-Site\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:19:24.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Auction-Site\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Models\\Comment.cs",
+              "RelativeToolTip": "Auction-Site\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:18:10.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Bid.cs",
+              "DocumentMoniker": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Models\\Bid.cs",
+              "RelativeDocumentMoniker": "Auction-Site\\Models\\Bid.cs",
+              "ToolTip": "C:\\Users\\skory\\source\\repos\\Auction-Site\\Auction-Site\\Models\\Bid.cs",
+              "RelativeToolTip": "Auction-Site\\Models\\Bid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:15:47.706Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
